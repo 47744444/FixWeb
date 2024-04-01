@@ -1,0 +1,69 @@
+﻿@model WebApplication52.Models.VDevice
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>VDevice</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.設備位置)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.設備位置)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.報修原因)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.報修原因)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.報修人員工號)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.報修人員工號)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.維修人員工號)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.維修人員工號)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.維修進度)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.維修進度)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.問題原因)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.問題原因)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.備註)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.備註)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.日期)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.日期)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

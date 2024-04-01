@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\models\\vdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:models\\vdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\models\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:models\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\models\\fixreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:models\\fixreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\views\\vdevices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:views\\vdevices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|c:\\users\\yolov8\\source\\repos\\webapplication52\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D65EA8-1F48-4170-9180-AB0B7F6C258B}|WebApplication52.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\Devices\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\Devices\\Index.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Index.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T05:10:53.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T01:10:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "Controllers\\DevicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:26:18.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\Devices\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Create.cshtml",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\Devices\\Create.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T01:28:07.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:40:03.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VDevice.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\VDevice.cs",
+              "RelativeDocumentMoniker": "Models\\VDevice.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\VDevice.cs",
+              "RelativeToolTip": "Models\\VDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:40:03.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:36:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:40:00.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FixReason.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\FixReason.cs",
+              "RelativeDocumentMoniker": "Models\\FixReason.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\FixReason.cs",
+              "RelativeToolTip": "Models\\FixReason.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:40:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:12:06.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\Solution.cs",
+              "RelativeDocumentMoniker": "Models\\Solution.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\Solution.cs",
+              "RelativeToolTip": "Models\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:40:02.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Models\\MyDBContext.cs",
+              "RelativeToolTip": "Models\\MyDBContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:10:06.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\Devices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\Devices\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Edit.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAewEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T05:19:37.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\VDevices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\VDevices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Views\\VDevices\\Edit.cshtml",
+              "RelativeToolTip": "Views\\VDevices\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T05:19:42.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\YoloV8\\source\\repos\\WebApplication52\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T05:49:04.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

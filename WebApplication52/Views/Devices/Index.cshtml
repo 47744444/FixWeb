@@ -1,0 +1,101 @@
+﻿@model IEnumerable<WebApplication52.Models.VDevice>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    .table th {
+        white-space: nowrap;
+    }
+
+    .table td {
+        word-wrap: break-word;
+    }
+</style>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.設備位置)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.報修原因)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.報修人員工號)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.維修人員工號)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.維修進度)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.問題原因)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.備註)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.日期)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.設備位置)
+                    </div>
+                </td>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.報修原因)
+                    </div>
+                </td>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.報修人員工號)
+                    </div>
+                </td>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.維修人員工號)
+                    </div>
+                </td>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.維修進度)
+                    </div>
+                </td>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.問題原因)
+                    </div>
+                </td>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.備註)
+                    </div>
+                </td>
+                <td>
+                    <div style="max-width: 200px; overflow: hidden; text-overflow: ellipsis;">
+                        @Html.DisplayFor(modelItem => item.日期)
+                    </div>
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

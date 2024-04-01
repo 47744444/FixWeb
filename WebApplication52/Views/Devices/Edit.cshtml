@@ -1,0 +1,83 @@
+﻿@model WebApplication52.Models.Device
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>編輯</h1>
+
+<hr />
+<div class="row">
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Location" class="control-label">設備位置</label>
+                <select asp-for="Location" class="form-control">
+                    @foreach (var item in ViewBag.Locations)
+                    {
+                        <option value="@item.LocationId">@item.LocationDesc</option>
+                    }
+                </select>
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FixReason" class="control-label">報修原因</label>
+                <select asp-for="FixReason" class="form-control">
+                    @foreach (var item in ViewBag.FixReasons)
+                    {
+                        <option value="@item.FixReasonId">@item.FixReasonDesc</option>
+                    }
+                </select>
+                <span asp-validation-for="FixReason" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmpId" class="control-label">報修人員工號</label>
+                <input asp-for="EmpId" class="form-control" />
+                <span asp-validation-for="EmpId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label">維修進度</label>
+                <select asp-for="Status" class="form-control">
+                    @foreach (var item in ViewBag.Statuses)
+                    {
+                        <option value="@item.StatusId">@item.StatusDesc</option>
+                    }
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FixEmpId" class="control-label">維修人員工號</label>
+                <input asp-for="FixEmpId" class="form-control" />
+                <span asp-validation-for="FixEmpId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Solution" class="control-label">問題原因</label>
+                <select asp-for="Solution" class="form-control">
+                    @foreach (var item in ViewBag.Solutions)
+                    {
+                        <option value="@item.SolutionId">@item.SolutionDesc</option>
+                    }
+                </select>
+                <span asp-validation-for="Solution" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Remark" class="control-label">備註</label>
+                <input asp-for="Remark" class="form-control" />
+                <span asp-validation-for="Remark" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
